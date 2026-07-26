@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+plotly
+xgboost
+scikit-learn
+
+py -m streamlit run main.py
